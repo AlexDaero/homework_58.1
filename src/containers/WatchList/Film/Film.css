@@ -1,0 +1,20 @@
+.Film {
+    width: 600px;
+}
+
+.Film_input {
+    width: 70%;
+    height: 26px;
+    border: 1px solid rgb(0, 0, 0);
+    border-right: none;
+    border-radius: 10px 0 0 10px;
+    padding: 0 10px;
+}
+.Film_btn{
+    width: 100px;
+    height: 26px;
+    background-color: rgb(158, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    border-left: none;
+    border-radius: 0 10px 10px 0;
+}
